@@ -1,1 +1,1 @@
-# Pdz03
+Software : Visual Studio Code, Python, Macromedia Dreamweaver
